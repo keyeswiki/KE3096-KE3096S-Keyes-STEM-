@@ -40,6 +40,7 @@ keyes商标和徽标是KEYES DIY ROBOT co.,LTD的版权,任何人和公司在没
 
 Keyes STEM电子积木传感器中级套件
 
+![](media/KE3096.png)
 
 # 产品介绍
 
@@ -77,7 +78,7 @@ Keyes STEM电子积木传感器中级套件主要包含了我们常用的传感�
 | 18 | ![img](media/KE4039.png) | ![img](media/KE4039S.png) | 超声波转接模块 | 1  |
 |19 | ![img](media/KE4013.png) | ![img](media/KE4013S.png) | 电容触摸模块  | 1 |
 | 20| ![img](media/KE4014.png) | ![img](media/KE4014S.png) | 光折断模块| 1 |
-| 21 | ![img](media/KE4033.png) | ![img](media/KE4033S.png) | XHT11温湿度传感器（兼容DHT11）| 1 |
+| 21 | ![img](media/KE4033.png) | ![img](media/KE4033S.png) | XHT11温湿度传感器(兼容DHT11)| 1 |
 | 22 | ![](media/KE4038.png) | ![](media/KE4038S.png) | 130电机模块  | 1 |
 | 23 | ![](media/KE4043.png) | ![](media/KE4043S.png) | 激光模块  | 1 |
 | 24 | ![](media/KE4048.png) | ![](media/KE4048S.png) | 水滴传感器  | 1  |
@@ -102,7 +103,7 @@ Keyes STEM电子积木传感器中级套件主要包含了我们常用的传感�
 
 # 资料下载
 
-<span style="color: rgb(255, 76, 65); font-size: 22px;">特别注明： 学习本套件的所有项目课程前，必须先下载项目课程的库文件及课程代码。</span>
+<span style="color: rgb(255, 76, 65); font-size: 22px;">特别注明： 学习本套件的所有项目课程前，必须先下载项目课程的库文件及项目代码。</span>
 
 * [库文件](库文件.zip)
 
